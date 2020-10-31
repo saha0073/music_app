@@ -1,5 +1,5 @@
 # music_app
-### Do you want to build an app to play drums just with vanilla-javascript, HTML, and CSS? Then here you go.
+### Do you want to build an app to play drums just with JavaScript, HTML, and CSS? Then here you go.
 
 ![title-pic](https://github.com/saha0073/music_app/blob/master/music_app_UI.PNG)
 
